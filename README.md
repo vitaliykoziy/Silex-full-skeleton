@@ -9,7 +9,7 @@ In this repo You can find
 
 3) Environments
 
-All console commands should be done o=in root directory.
+All console commands should be done in root directory.
 
 At First You need initialize env with which You will work.
 In console run command:
