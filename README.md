@@ -4,7 +4,9 @@ Silex Full Skeleton
 In this repo You can find
 -
 1) Console app
+
 2) Migrations
+
 3) Environments
 
 All console commands should be done o=in root directory.
