@@ -16,7 +16,7 @@ In console run command:
 
 `php init.php run:env dev`
 
-This will run env **dev**, you can run other one, for example **prod** or create you own env like **stage** and run it. 
+This will run env **dev**, you can run other one, for example **prod** or create your own env like **stage** and run it. 
 
 
 In `./console/commands` is created `FirstCommand.php` as example.
