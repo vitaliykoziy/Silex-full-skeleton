@@ -1,0 +1,4 @@
+name: Migrations
+migrations_namespace: console\migrations
+table_name: migration_versions
+migrations_directory: /../migrations
